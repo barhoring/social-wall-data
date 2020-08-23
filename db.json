@@ -3,7 +3,7 @@
     {
       "tweetId": "1",
       "title": "empty title 1",
-      "tweet": "This is an empty tweet string 1",
+      "tweet": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.",
       "sourceImage": "https://abs.twimg.com/responsive-web/web/icon-ios.8ea219d5.png",
       "sourceName": "ESPN",
       "tweetTime": "2020-07-10 22:13"
@@ -11,7 +11,7 @@
     {
       "tweetId": "2",
       "title": "empty title 2",
-      "tweet": "This is an empty tweet string 2",
+      "tweet": "If you've been thinking about joining discord server but you're not sure why you'd want to, I wrote up some of the things people do on my discord server (in addition to chatting with other fine folks):",
       "sourceImage": "https://abs.twimg.com/responsive-web/web/icon-ios.8ea219d5.png",
       "sourceName": "ESPN",
       "tweetTime": "2020-07-10 9:30"
@@ -35,7 +35,7 @@
     {
       "tweetId": "5",
       "title": "empty title 5",
-      "tweet": "This is an empty tweet string 5",
+      "tweet": "I just made a script that runs this: https://github.com/nodejs/node-gyp/blob/master/macOS_Catalina.md#i-did-all-that-and-the-acid-test-still-does-not-pass-- Because I have to do this every few weeks and I got tired of looking it up. Ugh.",
       "sourceImage": "https://abs.twimg.com/responsive-web/web/icon-ios.8ea219d5.png",
       "sourceName": "ESPN",
       "tweetTime": "2020-07-10 13:54"
@@ -43,7 +43,7 @@
     {
       "tweetId": "6",
       "title": "empty title 6",
-      "tweet": "This is an empty tweet string 6",
+      "tweet": "I need to automate the KCD Learning Clubs process. These are getting popular! ",
       "sourceImage": "https://abs.twimg.com/responsive-web/web/icon-ios.8ea219d5.png",
       "sourceName": "ESPN",
       "tweetTime": "2020-07-10 16:01"
