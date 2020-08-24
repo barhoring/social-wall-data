@@ -52,7 +52,7 @@
   "commits": [
     {
       "issueId": "123",
-      "title": "empty title",
+      "title": "Add New Features #22",
       "status": "open",
       "devName": "hagit",
       "devMergeCount": 3,
@@ -61,7 +61,7 @@
     },
     {
       "issueId": "123",
-      "title": "empty title",
+      "title": "Fix Bug",
       "status": "merged",
       "devName": "hagit",
       "devMergeCount": 3,
@@ -70,7 +70,7 @@
     },
     {
       "issueId": "123",
-      "title": "empty title",
+      "title": "Add Comments To Main Function",
       "status": "open",
       "devName": "hagit",
       "devMergeCount": 3,
