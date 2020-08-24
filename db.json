@@ -53,7 +53,7 @@
     {
       "issueId": "123",
       "title": "empty title",
-      "status": 1,
+      "status": "open",
       "devName": "hagit",
       "devMergeCount": 3,
       "devImage": "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca_400x400.jpg",
@@ -62,7 +62,7 @@
     {
       "issueId": "123",
       "title": "empty title",
-      "status": 1,
+      "status": "merged",
       "devName": "hagit",
       "devMergeCount": 3,
       "devImage": "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca_400x400.jpg",
@@ -71,7 +71,7 @@
     {
       "issueId": "123",
       "title": "empty title",
-      "status": 1,
+      "status": "open",
       "devName": "hagit",
       "devMergeCount": 3,
       "devImage": "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca_400x400.jpg",
@@ -80,7 +80,7 @@
     {
       "issueId": "123",
       "title": "empty title",
-      "status": 1,
+      "status": "merged",
       "devName": "hagit",
       "devMergeCount": 3,
       "devImage": "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca_400x400.jpg",
