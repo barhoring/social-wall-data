@@ -27,7 +27,7 @@
     {
       "tweetId": "4",
       "title": "empty title 4",
-      "tweet": "This is an empty tweet string 4",
+      "tweet": "Still have a few opening on this one:",
       "sourceImage": "https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg",
       "sourceName": "ESPN",
       "tweetTime": "2020-07-10 17:51"
@@ -56,7 +56,7 @@
       "status": 1,
       "devName": "hagit",
       "devMergeCount": 3,
-      "devImage": "https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg",
+      "devImage": "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca_400x400.jpg",
       "commitTime": "2020-07-10 10:13"
     },
     {
@@ -65,7 +65,7 @@
       "status": 1,
       "devName": "hagit",
       "devMergeCount": 3,
-      "devImage": "https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg",
+      "devImage": "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca_400x400.jpg",
       "commitTime": "2020-07-10 10:13"
     },
     {
@@ -74,7 +74,7 @@
       "status": 1,
       "devName": "hagit",
       "devMergeCount": 3,
-      "devImage": "https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg",
+      "devImage": "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca_400x400.jpg",
       "commitTime": "2020-07-10 10:13"
     },
     {
@@ -83,7 +83,7 @@
       "status": 1,
       "devName": "hagit",
       "devMergeCount": 3,
-      "devImage": "https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg",
+      "devImage": "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca_400x400.jpg",
       "commitTime": "2020-07-10 10:13"
     }
   ],
